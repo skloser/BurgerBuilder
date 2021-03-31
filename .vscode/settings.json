@@ -4,6 +4,6 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/80d74335-04ab-4927-af6a-2c5391e858c4/resourceGroups/Portfolio-Sites/providers/Microsoft.Web/sites/burger-builder-project",
+    "appService.defaultWebAppToDeploy": "",
     "appService.deploySubpath": "."
 }
