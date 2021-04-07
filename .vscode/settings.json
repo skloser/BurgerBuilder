@@ -1,9 +1,4 @@
 {
     "html.format.wrapAttributes": "force-expand-multiline",
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "",
-    "appService.deploySubpath": "."
+    "appService.defaultWebAppToDeploy": "None"
 }
